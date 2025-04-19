@@ -37,12 +37,12 @@ Implemented in `logistic_regression_analysis_python.ipynb`:
 ### SVM Model
 - Training Accuracy: ~79.3%
 - Test Accuracy: ~77.1%
-
+ [(LR_IMG.png)]
 ### Logistic Regression Models
 - Scratch Implementation Accuracy: ~73.4%
 - Scikit-learn Implementation Accuracy: ~77.3%
 - SGDClassifier with Log Loss Accuracy: ~70.8%
-
+[(SVM_IMG.png)]
 ## Requirements
 - Python 3.x
 - NumPy
